@@ -23,4 +23,4 @@ Various Machine Learning models were used to train and evaluate the data. Due to
 - Low Risk Precision of 100% and Sensitivity of 68%
 - F1 value of 2%
 
-![Ovrsmpl CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/Ovrsmpl%20CM.png)
+![Ovrsmpl CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/Ovrsmpl%20Clr.png)
