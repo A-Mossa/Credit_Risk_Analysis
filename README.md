@@ -84,3 +84,10 @@ Various Machine Learning models were used to train and evaluate the data. Due to
 - F1 value of 16% for High Risk which is significantly higher than all other models !
 
 ![ee Clr](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/EE%20Clr.png)
+
+## Summary
+
+It is without a doubt that EasyEnsemble Classifier is the superior model for this use case because it yielded the best results out of all the six models trained.
+its accuracy was an astonishing 93.1%, with 9% accuracy for high risk applications, and the highest sensitivity of 92%. Same can be said about this model's performance in detecting low risk loan applications with stats of 94% accuracy and an overall F1 score of 16%.
+
+Jill and I would recommend moving forward using EasyEnsembleClassifier as the model of choice when dealing with Credit Risk, as it demonstrated the highest performance and yields out of all models trained, until a better model with better results is found.
