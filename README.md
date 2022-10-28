@@ -72,3 +72,15 @@ Various Machine Learning models were used to train and evaluate the data. Due to
 - F1 value of 6% for High Risk which is a noticable jump from previous models
 
 ![blrf Clr](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/blrf%20Clr.png)
+
+### Ensemble learner with EasyEnsembleClassifier
+
+![ee Acc](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/EE%20Acc.png)
+- Balanced Accuracy Score of 93.1% !
+
+![ee Cm](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/EE%20Acc.png)
+- High Risk Precision of 9% and Sensitivity of 92%
+- Low Risk Precision of 100% and Sensitivity of 94%
+- F1 value of 16% for High Risk which is significantly higher than all other models !
+
+![ee Clr](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/EE%20Acc.png)
