@@ -27,12 +27,24 @@ Various Machine Learning models were used to train and evaluate the data. Due to
 
 ### Oversampling  with SMOTE
 
-![Ovrsmpl Smt](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20acc.png)
+![SMOTE Smt](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20acc.png)
 - Balanced Accuracy Score of 65.2%
 
-![Ovrsmpl CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20CM.png)
+![SMOTE CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20CM.png)
 - High Risk Precision of 1% and Sensitivity of 67%
 - Low Risk Precision of 100% and Sensitivity of 64%
 - F1 value of 2% for High Risk
 
-![Ovrsmpl CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20Clr.png)
+![SMOTE CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/SMOTE%20Clr.png)
+
+### Undersampling with the ClusterCentroids
+
+![CC Acc](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/Undrsmpl%20Acc.png)
+- Balanced Accuracy Score of 52%
+
+![CC CM](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/Undrsmpl%20CM.png)
+- High Risk Precision of 1% and Sensitivity of 57%
+- Low Risk Precision of 100% and Sensitivity of 47%
+- F1 value of 1% for High Risk
+
+![CC Clr](https://github.com/A-Mossa/Credit_Risk_Analysis/blob/main/Imgs/Undrsmpl%20Clr.png)
